@@ -1,0 +1,4 @@
+#Tue Apr 16 22:02:07 NPT 2019
+base.0=E\:\\Android_Application_Sujan_Rai\\2nd assignment\\Number_Into_Words\\Number_Into_Words\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
